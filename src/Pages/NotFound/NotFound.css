@@ -1,0 +1,18 @@
+.notfound_page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url(https://img.freepik.com/free-vector/oops-404-error-with-broken-robot-concept-illustration_114360-5529.jpg?w=740&t=st=1683889498~exp=1683890098~hmac=f1d33e7651aa63adcc5a9af14bec9717ffac4b55d537d542e1b2c5b042a57643);
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  .notfound_page {
+    background-size: 70%;
+  }
+}
