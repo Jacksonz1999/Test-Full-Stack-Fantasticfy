@@ -43,13 +43,4 @@ El producto con el siguiente ID: *********** tiene diferentes imágenes por cada
 
 Pista: Cada item del array object de variants tiene un image_id, el cual hace referencia al id de cada item del array object de images.
 
-## Se valorará:
-* Diseño responsive de ambas páginas.
-* Diseño claro e intuitivo.
-* Deploy en la nube para ver la prueba en producción.
 
-Si tenéis cualquier duda, podéis escribir al email: a.gomez@fantasticfy.com poniendo en copia a victor@fantasticfy y os ayudaremos.
-
-Una vez finalizado, puedes enviar la url de tu repositorio a: victor@fantasticfy.com. 
-
-¡Mucha suerte!
